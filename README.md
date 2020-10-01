@@ -26,4 +26,6 @@ Another interesting question is who tend to co-occur with each other. Give us th
 
 Google these people and see what their connection is. Can we use this to detect instances of infidelity?
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 The first file (NewYorkSocialDiary.ipynb) is where the project was implemented while the second file is just an html version of the first file.
